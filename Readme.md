@@ -50,6 +50,12 @@ Ce projet propose deux scripts de scraping avancés pour extraire des données p
 > Python, Selenium, Undetected-chromedriver, Requests, JSON.
 
 ---
+## Remarques
+undetected-chromedriver est utilisé pour contourner certaines protections anti-scraping.
+
+Respecter les conditions d'utilisation d'Auchan et de Monoprix lors de l'utilisation du script.
+
+
 
 ## Prérequis
 
@@ -64,9 +70,3 @@ Ce projet propose deux scripts de scraping avancés pour extraire des données p
 
 ```bash
 pip install selenium undetected-chromedriver requests
-
-## Remarques
-undetected-chromedriver est utilisé pour contourner certaines protections anti-scraping.
-
-Respecter les conditions d'utilisation d'Auchan et de Monoprix lors de l'utilisation du script.
-
